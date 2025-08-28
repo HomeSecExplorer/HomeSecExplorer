@@ -1,16 +1,13 @@
-## Hi there 👋
+# HomeSecExplorer
 
-<!--
-**HomeSecExplorer/HomeSecExplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Secure and automate your homelab with Ansible and practical, copy-paste guides.\
+Fast, reproducible, privacy first.
 
-Here are some ideas to get you started:
+**Start here:**
+- [Pi-hole role](https://github.com/HomeSecExplorer/ansible-role-pihole)
+- [cloudflared DoH role](https://github.com/HomeSecExplorer/ansible-role-cloudflared)
+- [Guides (docs hub)](https://github.com/HomeSecExplorer/videos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**YouTube:** [@HomeSecExplorer](https://www.youtube.com/@HomeSecExplorer)
+
+**Sponsor:** [Sponsor coffee](https://github.com/sponsors/HomeSecExplorer)
