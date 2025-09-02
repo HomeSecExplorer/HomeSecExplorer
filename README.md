@@ -4,6 +4,7 @@ Secure and automate your homelab with Ansible and practical, copy-paste guides.\
 Fast, reproducible, privacy first.
 
 **Start here:**
+- [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide)
 - [Pi-hole role](https://github.com/HomeSecExplorer/ansible-role-pihole)
 - [cloudflared DoH role](https://github.com/HomeSecExplorer/ansible-role-cloudflared)
 - [Guides (docs hub)](https://github.com/HomeSecExplorer/videos)
